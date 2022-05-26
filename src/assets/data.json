@@ -1,0 +1,35 @@
+{
+    "data":[
+        {
+            "id":1,
+            "names":"Ninja",
+            "address":"USA",
+            "coordinates":{
+                "latitude":"13.545764",
+                "longitude":"45.754432"
+            }
+
+        },
+        {
+            "id":2,
+            "names":"Pick",
+            "address":"USA",
+            "coordinates":{
+                "latitude":"15.545764",
+                "longitude":"48.754432"
+            }
+
+        },
+        {
+            "id":3,
+            "names":"Drop",
+            "address":"USA",
+            "coordinates":{
+                "latitude":"22.545764",
+                "longitude":"57.754432"
+            }
+
+        }
+
+    ]
+}
